@@ -1,3 +1,5 @@
+https://www.linkedin.com/posts/aamir-simnani-789a5733a_trainingabrtag-kashmiribakery-goldenharvestconfections-ugcPost-7473269210391957504-NCrA/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFU6oJkBMfTi5r0Lza4donXRBxgEqUMCXwY
+
 # Kashmiri Bakery & Sweets — Srinagar, Kashmir
 
 Welcome to the Kashmiri Bakery & Sweets repository — a simple landing README for the local bakery in Srinagar showcasing our specialties, menu highlights, location, ordering info, and how contributors can help improve this repo (photos, menus, recipes, or website content).
